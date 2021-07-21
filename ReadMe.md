@@ -1,5 +1,8 @@
-# Node js Projects
+### What is Node.js ?
 
-![alt text](https://codelike.pro/images/2017/10/nodejs-ansible-git-pm2.jpg)
+Node.js is a JavaScript Runtime, built on the V8 Javascript engine. It's written in c++, and it allows us to run Javascript code on the server. 
+
+
+### Node js Projects
 
 1. A simple password generator
